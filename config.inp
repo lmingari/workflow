@@ -1,0 +1,27 @@
+[DEFAULT]
+basepath   = /mnt/MD1200A/lcapra/cenizas
+time_start = 9
+time_end   = 33 
+NMPIX      = 3
+NMPIY      = 3
+NMPIZ      = 1
+
+[colima]
+run     = True
+lonmin  = -106       # Min Longitude
+lonmax  = -102       # Max Longitude
+latmin  = 18         # Min Latitude
+latmax  = 22         # Max Latitude
+lonv    = -103.616   # Vent longitude
+latv    = 19.514     # Vent latitude
+hv      = 3640.0     # Vent hight in m asl
+
+[chichon]
+run     = True
+lonmin  = -96
+lonmax  = -91
+latmin  = 15
+latmax  = 19
+lonv    = -93.2306
+latv    = 17.3592
+hv      = 1150.0
