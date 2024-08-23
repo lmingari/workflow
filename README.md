@@ -6,8 +6,8 @@ python create_cases.py
 
 # Day workflow
 
-./get_wrf.sh
-python run_cases.py
-python plot_cases.py
-TODO: python upload_images.py
+* ./get_wrf.sh
+* python run_cases.py
+* python plot_cases.py
+* TODO: python upload_images.py
 
